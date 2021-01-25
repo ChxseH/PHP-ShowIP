@@ -1,3 +1,4 @@
-# PHP-ShowIP
+# IP-PHP
+Simple PHP Script to show your public IP.
 
-Show your public IP with PHP.
+[Demo Here](https://ip.chse.xyz/)
